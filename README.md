@@ -69,8 +69,4 @@ This repository contains two versions of a project that forecasts monthly Arctic
 
 ---
 
-## 📝 How to Run
-1. Install dependencies:
-```bash
-pip install pandas numpy matplotlib statsmodels
 
